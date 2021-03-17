@@ -1,0 +1,70 @@
+body {
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+main {
+  color: white;
+  background-color: rgba(0,0,0, 0.5);
+  border-radius: 15px;
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+
+header {
+  margin: auto;
+  color: rgb(0,255,0);
+}
+
+img {
+  max-width: 200px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+
+nav {
+  margin: auto;
+  background-color: rgb(0,255,0);
+  width: 80%;
+}
+
+input{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+span{
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.info{
+  font-size: 20px;
+  text-align:left;
+  margin-left: 105px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.bar{
+  border-radius: 10px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+.medium{
+  background-color: orange;
+  width: 400px;
+}
+
+.low{
+  background-color: red;
+  width: 100px;
+}
+
+.high{
+  background-color: rgb(0,255,0);
+  width: 800px;
+}
